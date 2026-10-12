@@ -1,0 +1,8 @@
+# Data mahasiswa TIDAK boleh diunggah (privasi)
+data/
+*.xlsx
+*.xls
+*.csv
+__pycache__/
+.DS_Store
+~$*
